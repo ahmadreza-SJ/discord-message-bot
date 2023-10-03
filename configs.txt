@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "channel_id": "",
+    "to": "salam",
+    "response": "aleyk"
+}
